@@ -1,8 +1,21 @@
  <html>
  <head>
- 	 <script src="find-primes.js"></script> 
+ 	<script src="find-primes.js"></script> 
  </head>
  <body> 
- 	<h1>run(8)</h1>
+ 	<p>Pick a number to find all the truncatable primes up to that length or choose -1 to get all of them. If the number is -1 or >=8 this may take a minute or two to fully run.</p>
+ 	<input type="number" value="8" id="itterationCount">
+ 	<button type="button" onclick="run()">Generate all truncatable primes</button>
+
+ 	<br><br>
+ 	<div id="prime-list">
+
+ 	</div>
+
+ 	<style type="text/css">
+ 		p{
+ 			margin: 0px;
+ 		}
+ 	</style>
  </body>
  </html> 
