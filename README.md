@@ -7,7 +7,7 @@ This project generates the list of all truncatable primes
 This project was inspired by [this video](https://www.youtube.com/watch?v=azL5ehbw_24) all about truncatable primes
 
 
-This project was serves no real purpose as the list of all truncatable primes is finite(83) and known as ween on the Wikipedia article. I made this project for fun in JavaScript so that anyone can run the program directly from their web brower
+This project was serves no real purpose as the list of all truncatable primes is finite (there are 83) and known as seen on the Wikipedia article. I made this project for fun in JavaScript so that anyone can run the program directly from their web brower
 
 
 You may view the program on GitHub Pages here [https://elihschiff.github.io/truncatable-prime-generator/](https://elihschiff.github.io/truncatable-prime-generator/)
